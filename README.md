@@ -11,7 +11,8 @@
 <img src="static\demo.gif" width="300">
 </div>
 <div align="center">
- <a href="https://arxiv.org/pdf/2407.13729">Paper</a> 
+ <a href="https://arxiv.org/pdf/2407.13729"style="margin-right:20px;">Paper</a> &nbsp;&nbsp;&nbsp;
+ <a href="https://x.com/nacloos/status/1814709193221304403">Tweet</a> 
 </div>
 
 
